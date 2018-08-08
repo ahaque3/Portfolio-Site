@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name= "viewport" content= "width=device-width, initial-scale=1">
+<title> AH productions </title>
+<link rel="stylesheet" type="text/css" href=css/portfolioSiteCSS.css>
+
+
+  </head>
+<body>
+  <header>
+  <div class="header">
+      <img class="logo"src="https://image.ibb.co/hfqNyn/AH_Productions_logo.jpg" alt="AH_Productions_logo" >
+
+        <h1 class="name">Aminah Haque</h1>
+
+  </div>
+  </header>
+  <div class="title">
+    <h3> Web Developer</h3>
+  </div>
+
+  <div class="main">
+  <figure class="figure">
+       <img src="http://www.inventivezone.com/images/services/frontend%20development.png" alt="FEND infographic">
+    <figcaption class="a"> Source:<a href="http://www.inventivezone.com/services/frontend-development/">InventiveZone</a></figcaption>
+
+  </figure>
+    <div class="mission">
+    <div class="text">
+      <p class="elvtr-pitch"> <em> My passion is implementing innovative design using the latest techniques and tools to create an amazing user experience.</em></p>
+     <p class="me"> Superpowers include, vision in the back of my head, the ability to predict impending disasters when small children are involved, enhanced stamina due to conditioning and lack of sleep, ability to find anything in the house (regardless of who put it there), the ability to always get things done on time, and an all-around awesomeness that is otherwise known as <em>being a mom!</em></p>
+    </div>
+  </div>
+ </div>
+
+  <h1 class="feature"> Featured Work</h1>
+  <div class="works">
+    <a href="https://codepen.io/ahaque3/full/mXXRaa/" target="_blank"><img class="okapi"  src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1767931.mXXRaa.small.e4789327-4b49-4087-a63c-e9fe0c7fd888.png" alt="Okapi">
+      <a href="https://codepen.io/ahaque3/full/yvrwMG/" target="_blank"> <img class="pixel" src="https://s3-us-west-2.amazonaws.com/i.cdpn.io/1767931.yvrwMG.small.4639dcee-084e-4b5d-99ea-ebacaccb2c0a.png
+" alt="Pixel Maker">
+       <a href="https://foyfineart.com/wp-content/uploads/2018/02/More-Coming-Soon3.jpg" target="_blank"><img class="projects" src="https://foyfineart.com/wp-content/uploads/2018/02/More-Coming-Soon3.jpg" alt="More Coming Soon">
+
+  </div>
+  <div class="resources"> Helpful Resources
+    <ul class="sites">
+     <li class="a"> <a href="https://www.w3schools.com/colors/colors_picker.asp"> HTML Color Picker</a></li>
+  </div>
+  <footer class="copyright"> Made by AH Productions. All rights reserved.</footer>
