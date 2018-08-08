@@ -5,7 +5,7 @@ This site demonstrates the skills in front-end web development for AH Production
 AH Productions
 ==============
 
-    AH productions is committed to creating exciting, innovative websites that are tailored to the project.  The wide array of sites viewed here demonstrate the skill and devotion to creating a unique site for each unique project.  Every project has different needs and perameters and therefore needs specialized attention to detail.
+AH productions is committed to creating exciting, innovative websites that are tailored to the project.  The wide array of sites viewed here demonstrate the skill and devotion to creating a unique site for each unique project.  Every project has different needs and perameters and therefore needs specialized attention to detail.
     
 What is AH Productions?
 ======================
