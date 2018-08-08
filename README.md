@@ -10,6 +10,6 @@ AH Productions
 What is AH Productions?
 ======================
 
-    Aminah Haque is currently enrolled in the Grow with Google scholarship program to enhance coding and website creation skills.  She specializes in HTML, CSS and JavaScript.
+   Aminah Haque is currently enrolled in the Grow with Google scholarship program to enhance coding and website creation skills.  She specializes in HTML, CSS and JavaScript.
     
-    Aminah graduated Suma Cum Laude from Arizona State University  with a Baccalaureate Degree in Education and dedicates her full attention to a project to ensure not only that requirements are met, but that the user experience is smooth, easy and enjoyable.  She has excellent communcations skills and strives to make the work environment productive and fun for herself and colleagues.  She is a great catch as an employee!
+   Aminah graduated Suma Cum Laude from Arizona State University  with a Baccalaureate Degree in Education and dedicates her full attention to a project to ensure not only that requirements are met, but that the user experience is smooth, easy and enjoyable.  She has excellent communcations skills and strives to make the work environment productive and fun for herself and colleagues.  She is a great catch as an employee!
